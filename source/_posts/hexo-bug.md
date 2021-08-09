@@ -1,6 +1,6 @@
 ---
 title: hexo中的坑
-date: 2021-04-14 16:58:41
+date: 2021-08-09 16:58:41
 tags:
 - hexo
 categories:
@@ -15,3 +15,6 @@ categories:
 
 [在 Hexo 博客中写出好看的Latex 公式](https://zhuanlan.zhihu.com/p/105986034)
 
+
+
+[用git actions自动部署]([如何正确的使用 GitHub Actions 实现 Hexo 博客的 CICD | 喵了个咪 (hdj.me)](https://hdj.me/github-actions-hexo-cicd/))
